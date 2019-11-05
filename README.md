@@ -1,0 +1,2 @@
+# AlgiritmaTI-A
+Rumus segitiga
